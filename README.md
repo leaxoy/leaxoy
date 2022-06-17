@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 书籍阅读
+## 整洁之道
+- [《架构整洁之道》](https://book.douban.com/subject/30333919/)
+- [《代码整洁之道》](https://book.douban.com/subject/4199741/)
+- [《匠艺整洁之道》](https://book.douban.com/subject/35879791/)
+- [《敏捷整洁之道》](https://book.douban.com/subject/35083518/)
